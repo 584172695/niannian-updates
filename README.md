@@ -1,5 +1,16 @@
-# 念念更新信息
+# 念念的小日子
 
-这个仓库只公开念念桌宠的版本号、更新说明和发布时间。不包含角色照片、动画、源代码或安装包。
+安装包公开下载，无需登录 GitHub。源码保持私有。
 
-安装包仍位于私有仓库，仅授权用户可下载。客户端读取 latest.json 检测更新，不包含任何发布者凭据。
+| 系统 | 下载 |
+| --- | --- |
+| Windows 10/11 x64 | [Windows 安装版](https://github.com/584172695/niannian-updates/releases/download/v0.4.0/Niannian-0.4.0-windows-x64-setup.exe) |
+| Mac Apple Silicon | [Mac 版](https://github.com/584172695/niannian-updates/releases/download/v0.4.0/Niannian-0.4.0-macos-arm64.zip) |
+
+Windows：双击安装。后续在托盘“检查更新”中下载，完成后点击“重启更新”。旧版便携版用户需先退出念念，手动安装一次新版。
+
+Mac：退出念念后替换应用，暂时保留下载更新。
+
+更新保留各用户本机的金币、道具和养成进度。安装包不包含作者或其他用户的存档。
+
+[版本说明](https://github.com/584172695/niannian-updates/releases)
